@@ -52,7 +52,7 @@
 #define HAVE_JPEG
 #define HAVE_TIFF
 #define HAVE_OPENEXR
-/* #undef HAVE_ZSTD */
+#define HAVE_ZSTD
 
 /// Platform
 #define _UNIX_
